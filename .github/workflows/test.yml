@@ -24,7 +24,7 @@ jobs:
         id: issue
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          title: Test Issue
+          title: Test Issue by lmishra9
           body: Test issue body
           assignees: |
             lmishra20
